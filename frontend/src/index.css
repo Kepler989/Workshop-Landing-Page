@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom CSS below here if you ever need to, 
+   but Tailwind handles 99% of what you need! */
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
